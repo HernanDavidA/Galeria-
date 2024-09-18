@@ -1,0 +1,35 @@
+body{
+    background: #e3f2fd!important;
+}   
+i{
+    font-size: 28px;
+    transition: 2s;
+}   
+.card{
+    transition: 0.7s;
+    border: none!important;
+}
+
+.card:hover{
+    transform: scale(1.1);
+}
+
+.card-body{
+    padding: 0;
+    border: 0 0.5px solid #000;
+    
+}
+  
+
+.dropdown-menu {
+    background-color: #f8f9fa; 
+  }
+  
+  .dropdown-item {
+    color: #000; 
+  }
+  
+  .dropdown-item:hover {
+    background-color: #e2e6ea; 
+  }
+  
